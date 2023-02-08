@@ -1,0 +1,16 @@
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\bin\Debug\Pract01 - Xs and Os.exe.config
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\bin\Debug\Pract01 - Xs and Os.exe
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\bin\Debug\Pract01 - Xs and Os.pdb
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.csproj.AssemblyReference.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.csproj.SuggestedBindingRedirects.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\MainWindow.g.cs
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\App.g.cs
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os_MarkupCompile.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os_MarkupCompile.lref
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\MainWindow.baml
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.g.resources
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01___Xs_and_Os.Properties.Resources.resources
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.csproj.GenerateResource.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.csproj.CoreCompileInputs.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.exe
+C:\Users\5201\OneDrive\Рабочий стол\Code\C#\Pract01 - Xs and Os\obj\Debug\Pract01 - Xs and Os.pdb
