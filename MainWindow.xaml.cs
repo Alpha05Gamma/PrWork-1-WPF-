@@ -138,17 +138,23 @@ namespace Pract01___Xs_and_Os
 
         private void random()
         {
-            int x = rnd.Next(0,3);
-            int y = rnd.Next(0, 3);
+            stalemate();
 
-            if (field[x,y] == 0)
+            if (pcturn)
             {
-                field[x,y] = 1;
+                int x = rnd.Next(0, 3);
+                int y = rnd.Next(0, 3);
+
+                if (field[x, y] == 0)
+                {
+                    field[x, y] = 1;
+                }
+                else
+                {
+                    random();
+                }
             }
-            else
-            {
-                random();
-            }
+                       
         }
 
         private void kross()
@@ -675,11 +681,22 @@ namespace Pract01___Xs_and_Os
                 if (integer != 0) { couter += 1; }
             }
 
-            if(couter > 7)
+            if(couter > 8)
             {
-                ButtonLock();
                 WinnerBox.IsEnabled = true;
                 WinnerBox.Text = "Ничья";
+
+                for(int i = 0; i < 3; i++)
+                {
+                    for(int j =0; j < 3; j++)
+                    {
+                        if (field[i, j] == 0) { field[i, j] = 1; }
+                    }
+                }
+
+                paint();
+
+                pcturn = false;
             }
         }
 
